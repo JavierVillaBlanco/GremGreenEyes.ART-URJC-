@@ -24,5 +24,5 @@
 
 # PLANIFICACIÓN:
 ## Semana 1 26/Sep -> 2/Sep    
-- [x] Hacer logo de la empresa
-- [] Concepts de máx 3 plantas y 3 bichos
+- Hacer logo de la empresa
+- Concepts de máx 3 plantas y 3 bichos
